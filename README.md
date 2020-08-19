@@ -1,2 +1,2 @@
 # recommendation
-My homeworks for recommendation systems 
+Lessons for recommendation systems 
